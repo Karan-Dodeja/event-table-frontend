@@ -1,0 +1,9 @@
+.table-header {
+  background: linear-gradient(150deg, rgba(192,10,219,1) 0%, rgba(196,26,233,1) 18%, rgba(0,212,255,1) 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  padding: 120px 0px 20px 0px;
+  font-family: "Inter";
+  font-size: 64px;
+  font-weight: bolder;
+}
